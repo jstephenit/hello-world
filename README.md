@@ -1,2 +1,6 @@
 # hello-world
-steven new repository
+
+Hi Friends
+
+wassup friends
+am learning block chain
